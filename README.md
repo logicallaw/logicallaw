@@ -1,1 +1,1 @@
-<img src="https://capsule-render.vercel.app/api?type=venom&color=auto&height=200&section=header&text=🐬&fontSize=50" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=logicallaw&layout=compact"><br><br>
