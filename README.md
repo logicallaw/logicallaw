@@ -2,7 +2,7 @@
     <img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:008cb4,100:ffffff&height=120&text=logicallaw&animation=twinkling&fontColor=000000&fontSize=40" />
     </div>
     <div align= "center"> 
-    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> Let's try something </h2>  
+    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> Let's try something first and experience it a lot. </h2>  
     <div style="font-weight: 700; font-size: 15px; text-align: center; color: #c9d1d9;"> I'm currently studying Computer Science at Inha University, aspiring to become a full stack developer. </div> 
     </div>
     <div align= "center">
