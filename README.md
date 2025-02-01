@@ -7,7 +7,7 @@
     <section class="introduce">
         <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;">Let's try something first and experience it a lot.</h2>
         <p style="font-weight: 700; font-size: 15px; text-align: left; color: #c9d1d9;">
-            👋🏻 Hi, I’m Kim Jun-Ho, a passionate full-stack developer always eager to explore new challenges and experiences.
+            👋🏻 Hi, I’m Kim Jun-Ho, a passionate full-stack developer eager to explore new challenges and experiences.
         </p>
     </section>
     <!-- Tech Stacks Section -->
@@ -39,13 +39,21 @@
         <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white">
         <img alt="Dart" src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=Dart&logoColor=white">
     </section>
-    <!-- Contribution Section -->
-    <section class="contribution">
-        <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;">🐓 Contribution Farm</h2>
-        <div style="display: flex; justify-content: left; align-items: left;">
-            <a href="https://github.com/devxb/gitanimals">
-                <img src="https://render.gitanimals.org/farms/logicallaw" />
-            </a>
+    <!-- Projects Section -->
+    <section class="projects">
+        <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;">💻 Projects</h2>
+        <div class="awards-category" style="font-weight: 700; font-size: 15px; font-weight: bold; text-align: left; color: #c9d1d9;">
+            👚AI 기반 이미지 에디팅을 통한 온라인 의상 피팅 및 중고 의류 거래 서비스
+            <div class="description" style="font-weight: normal; font-size: 13px; margin-top: 5px; color: #8b949e;">
+            이 프로젝트는 **Google Cloud Platform(GCP)과 AI 모델(SAM2, KOLORS)**을 활용하여 나만의 옷장을 통한 의류 관리 및 가상 피팅 기반 중고 의류 거래 서비스를 제공합니다.
+            </div>
+        </div>
+    </section>
+    <!-- Awards Section -->
+    <section class="awards">
+        <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;">🏆 Awards</h2>
+        <div class="awards-category" style="font-weight: 700; font-size: 15px; font-weight: bold; text-align: left; color: #c9d1d9;">
+            2024 2학기 탄소중립 INNOVATION ACADEMY 3기 팀 프로젝트 대상 (1등)
         </div>
     </section>
     <!-- Contact Section -->
