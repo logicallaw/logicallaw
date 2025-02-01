@@ -52,7 +52,7 @@
     <section class="awards">
         <h1 style="border-bottom: 1px solid #21262d; color: #c9d1d9;">🏆 Awards</h1>
         <p style="color: #8b949e; font-size: 10px;">
-            <strong>2024 2학기 탄소중립 INNOVATION ACADEMY 3기 팀 프로젝트 대상 (1등)</strong>
+            2024 2학기 탄소중립 INNOVATION ACADEMY 3기 팀 프로젝트 대상 (1등)
         </p>
     </section>
     <!-- Contact Section -->
