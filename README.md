@@ -5,14 +5,14 @@
     </div>
     <!-- Introduction Section -->
     <section class="introduce">
-        <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;">Let's try something first and experience it a lot.</h2>
+        <h1 style="border-bottom: 1px solid #21262d; color: #c9d1d9;">Let's try something first and experience it a lot.</h1>
         <p style="font-weight: 700; font-size: 15px; text-align: left; color: #c9d1d9;">
             👋🏻 Hi, I’m Kim Jun-Ho, a passionate full-stack developer eager to explore new challenges and experiences.
         </p>
     </section>
     <!-- Tech Stacks Section -->
     <section class="techstack">
-        <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;">🛠️ Tech Stacks</h2>
+        <h1 style="border-bottom: 1px solid #21262d; color: #c9d1d9;">🛠️ Tech Stacks</h1>
         <!-- Back-end -->
         <div class="stack-category" style="font-weight: 700; font-size: 15px; font-weight: bold; text-align: left; color: #c9d1d9;">
             Back-end
@@ -41,24 +41,23 @@
     </section>
     <!-- Projects Section -->
     <section class="projects">
-        <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;">💻 Projects</h2>
-        <div class="awards-category" style="font-weight: 700; font-size: 15px; font-weight: bold; text-align: left; color: #c9d1d9;">
-            👚AI 기반 이미지 에디팅을 통한 온라인 의상 피팅 및 중고 의류 거래 서비스
-            <div class="description" style="font-weight: normal; font-size: 13px; margin-top: 5px; color: #8b949e;">
-            이 프로젝트는 **Google Cloud Platform(GCP)과 AI 모델(SAM2, KOLORS)**을 활용하여 나만의 옷장을 통한 의류 관리 및 가상 피팅 기반 중고 의류 거래 서비스를 제공합니다.
-            </div>
-        </div>
+        <h1 style="border-bottom: 1px solid #21262d; color: #c9d1d9;">💻 Projects</h1>
+        <h3 style="border-bottom: 1px solid #21262d; color: #c9d1d9;">👚AI 기반 이미지 에디팅을 통한 온라인 의상 피팅 및 중고 의류 거래 서비스</h3>
+            <p style="color: #8b949e; font-size: 10px;">
+            이 프로젝트는 <strong>Google Cloud Platform(GCP)과 AI 모델(SAM2, KOLORS)</strong>을 활용하여  
+            나만의 옷장을 통한 <strong>의류 관리 및 가상 피팅 기반 중고 의류 거래 서비스</strong>를 제공합니다.
+            </p>
     </section>
     <!-- Awards Section -->
     <section class="awards">
-        <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;">🏆 Awards</h2>
+        <h1 style="border-bottom: 1px solid #21262d; color: #c9d1d9;">🏆 Awards</h1>
         <div class="awards-category" style="font-weight: 700; font-size: 15px; font-weight: bold; text-align: left; color: #c9d1d9;">
             2024 2학기 탄소중립 INNOVATION ACADEMY 3기 팀 프로젝트 대상 (1등)
         </div>
     </section>
     <!-- Contact Section -->
     <section class="contact">
-        <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;">🧑‍💻 Contact me</h2>
+        <h1 style="border-bottom: 1px solid #21262d; color: #c9d1d9;">🧑‍💻 Contact me</h1>
         <a href="https://logicallaw.tistory.com">
             <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white">
         </a>
