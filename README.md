@@ -14,25 +14,25 @@
     <section class="techstack">
         <h1 style="border-bottom: 1px solid #21262d; color: #c9d1d9;">🛠️ Tech Stacks</h1>
         <!-- Back-end -->
-        <h3 class="stack-category" style="font-weight: 700; font-size: 15px; font-weight: bold; text-align: left; color: #c9d1d9;">
+        <div class="stack-category" style="font-weight: 700; font-size: 15px; font-weight: bold; text-align: left; color: #c9d1d9;">
             Back-end
-        </h3>
+        </div>
         <img alt="Express" src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=Express&logoColor=white">
         <img alt="NestJS" src="https://img.shields.io/badge/NestJS-E0234E.svg?&style=for-the-badge&logo=NestJS&logoColor=white">
         <!-- Front-end -->
-        <h3 class="stack-category" style="font-weight: 700; font-size: 15px; font-weight: bold; text-align: left; color: #c9d1d9;">
+        <div class="stack-category" style="font-weight: 700; font-size: 15px; font-weight: bold; text-align: left; color: #c9d1d9;">
             Front-end
-        </h3>
+        </div>
         <img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=Flutter&logoColor=white">
         <!-- Design -->
-        <h3 class="stack-category" style="font-weight: 700; font-size: 15px; font-weight: bold; text-align: left; color: #c9d1d9;">
+        <div class="stack-category" style="font-weight: 700; font-size: 15px; font-weight: bold; text-align: left; color: #c9d1d9;">
             Design
-        </h3>
+        </div>
         <img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=white">
         <!-- Languages -->
-        <h3 class="stack-category" style="font-weight: 700; font-size: 15px; font-weight: bold; text-align: left; color: #c9d1d9;">
+        <div class="stack-category" style="font-weight: 700; font-size: 15px; font-weight: bold; text-align: left; color: #c9d1d9;">
             Languages
-        </h3>
+        </div>
         <img alt="C++" src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white">
         <img alt="Java" src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white">
         <img alt="Javascript" src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=Javascript&logoColor=white">
