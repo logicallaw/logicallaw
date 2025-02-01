@@ -14,25 +14,25 @@
     <section class="techstack">
         <h1 style="border-bottom: 1px solid #21262d; color: #c9d1d9;">🛠️ Tech Stacks</h1>
         <!-- Back-end -->
-        <div class="stack-category" style="font-weight: 700; font-size: 15px; font-weight: bold; text-align: left; color: #c9d1d9;">
+        <h3 class="stack-category" style="font-weight: 700; font-size: 15px; font-weight: bold; text-align: left; color: #c9d1d9;">
             Back-end
-        </div>
+        </h3>
         <img alt="Express" src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=Express&logoColor=white">
         <img alt="NestJS" src="https://img.shields.io/badge/NestJS-E0234E.svg?&style=for-the-badge&logo=NestJS&logoColor=white">
         <!-- Front-end -->
-        <div class="stack-category" style="font-weight: 700; font-size: 15px; font-weight: bold; text-align: left; color: #c9d1d9;">
+        <h3 class="stack-category" style="font-weight: 700; font-size: 15px; font-weight: bold; text-align: left; color: #c9d1d9;">
             Front-end
-        </div>
+        </h3>
         <img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=Flutter&logoColor=white">
         <!-- Design -->
-        <div class="stack-category" style="font-weight: 700; font-size: 15px; font-weight: bold; text-align: left; color: #c9d1d9;">
+        <h3 class="stack-category" style="font-weight: 700; font-size: 15px; font-weight: bold; text-align: left; color: #c9d1d9;">
             Design
-        </div>
+        </h3>
         <img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=white">
         <!-- Languages -->
-        <div class="stack-category" style="font-weight: 700; font-size: 15px; font-weight: bold; text-align: left; color: #c9d1d9;">
+        <h3 class="stack-category" style="font-weight: 700; font-size: 15px; font-weight: bold; text-align: left; color: #c9d1d9;">
             Languages
-        </div>
+        </h3>
         <img alt="C++" src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white">
         <img alt="Java" src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white">
         <img alt="Javascript" src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=Javascript&logoColor=white">
@@ -51,9 +51,9 @@
     <!-- Awards Section -->
     <section class="awards">
         <h1 style="border-bottom: 1px solid #21262d; color: #c9d1d9;">🏆 Awards</h1>
-        <div class="awards-category" style="font-weight: 700; font-size: 15px; font-weight: bold; text-align: left; color: #c9d1d9;">
-            2024 2학기 탄소중립 INNOVATION ACADEMY 3기 팀 프로젝트 대상 (1등)
-        </div>
+        <p style="color: #8b949e; font-size: 10px;">
+            <strong>2024 2학기 탄소중립 INNOVATION ACADEMY 3기 팀 프로젝트 대상 (1등)</strong>
+        </p>
     </section>
     <!-- Contact Section -->
     <section class="contact">
