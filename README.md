@@ -39,35 +39,4 @@
         <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white">
         <img alt="Dart" src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=Dart&logoColor=white">
     </section>
-    <!-- Projects Section -->
-    <section class="projects">
-        <h1 style="border-bottom: 1px solid #21262d; color: #c9d1d9;">💻 Projects</h1>
-        <h3 style="border-bottom: 1px solid #21262d; color: #c9d1d9;">👚AI 기반 이미지 에디팅을 통한 온라인 의상 피팅 및 중고 의류 거래 서비스</h3>
-            <p style="color: #8b949e; font-size: 10px;">
-            이 프로젝트는 <strong>Google Cloud Platform(GCP)과 AI 모델(SAM2, KOLORS)</strong>을 활용하여  
-            나만의 옷장을 통한 <strong>의류 관리 및 가상 피팅 기반 중고 의류 거래 서비스</strong>를 제공합니다.
-            </p>
-    </section>
-    <!-- Awards Section -->
-    <section class="awards">
-        <h1 style="border-bottom: 1px solid #21262d; color: #c9d1d9;">🏆 Awards</h1>
-        <p style="color: #8b949e; font-size: 10px;">
-            2024 2학기 탄소중립 INNOVATION ACADEMY 3기 팀 프로젝트 대상 (1등)
-        </p>
-    </section>
-    <!-- Contact Section -->
-    <section class="contact">
-        <h1 style="border-bottom: 1px solid #21262d; color: #c9d1d9;">🧑‍💻 Contact me</h1>
-        <a href="https://logicallaw.tistory.com">
-            <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white">
-        </a>
-        <a href="mailto:logicallawbio@gmail.com">
-            <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white">
-        </a>
-        <div style="text-align: left;">
-            <a href="https://hits.seeyoufarm.com">
-                <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Flogicallaw%2F&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=GitHub&edge_flat=false">
-            </a>
-        </div>
-    </section>
 </div>
