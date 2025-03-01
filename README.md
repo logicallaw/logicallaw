@@ -39,4 +39,13 @@
         <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white">
         <img alt="Dart" src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=Dart&logoColor=white">
     </section>
+    <!-- Contribution Section -->
+    <section class="contribution">
+        <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;">🐓 Contribution Farm</h2>
+        <div style="display: flex; justify-content: left; align-items: left;">
+            <a href="https://github.com/devxb/gitanimals">
+                <img src="https://render.gitanimals.org/farms/logicallaw" />
+            </a>
+        </div>
+    </section>
 </div>
