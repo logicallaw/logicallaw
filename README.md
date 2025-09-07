@@ -43,7 +43,7 @@
     <section class="contribution">
         <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;">🐓 Contribution Farm</h2>
         <div style="display: flex; justify-content: left; align-items: left;">
-            <a href="https://github.com/devxb/gitanimals">
+            <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=logicallaw&utm_content=farm">
                 <img src="https://render.gitanimals.org/farms/logicallaw" />
             </a>
         </div>
