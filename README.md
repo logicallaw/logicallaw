@@ -42,7 +42,7 @@
     </section>
     <!-- Problem Solving -->
     <section class="activity">
-        <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;">✏️ Problem Solving</h2>
+        <h1 style="border-bottom: 1px solid #21262d; color: #c9d1d9;">✏️ Problem Solving</h2>
         <div style="display: flex; flex-direction: column; gap: 10px; align-items: flex-start;">
             <!-- <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=logicallaw&utm_content=farm">
                 <img src="https://render.gitanimals.org/farms/logicallaw" width="350" alt="GitAnimals Farm" />
