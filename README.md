@@ -17,8 +17,8 @@
         <div class="stack-category" style="font-weight: 700; font-size: 15px; font-weight: bold; text-align: left; color: #c9d1d9;">
             Back-end
         </div>
-        <img alt="NestJS" src="https://img.shields.io/badge/NestJS-E0234E.svg?&style=for-the-badge&logo=NestJS&logoColor=white">
         <img alt="SpringBoot" src="https://img.shields.io/badge/springboot-000000?style=for-the-badge&logo=springboot&logoColor=green">
+        <img alt="NestJS" src="https://img.shields.io/badge/NestJS-E0234E.svg?&style=for-the-badge&logo=NestJS&logoColor=white">
         <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
         <!-- Front-end -->
         <div class="stack-category" style="font-weight: 700; font-size: 15px; font-weight: bold; text-align: left; color: #c9d1d9;">
@@ -42,18 +42,18 @@
     </section>
     <!-- Problem Solving -->
     <section class="activity">
-        <h1 style="border-bottom: 1px solid #21262d; color: #c9d1d9;">✏️ Problem Solving</h2>
+        <!-- <h1 style="border-bottom: 1px solid #21262d; color: #c9d1d9;">✏️ Problem Solving</h2> -->
         <div style="display: flex; flex-direction: column; gap: 10px; align-items: flex-start;">
             <!-- <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=logicallaw&utm_content=farm">
                 <img src="https://render.gitanimals.org/farms/logicallaw" width="350" alt="GitAnimals Farm" />
             </a> -->
-            <a href="https://solved.ac/seoulbluered/" target="_blank">
+            <!-- <a href="https://solved.ac/seoulbluered/" target="_blank">
                 <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=seoulbluered" width="350" alt="Solved.ac Profile">
-            </a>
+            </a> -->
         </div>
     </section>
     <!-- Contact Section -->
-    <section class="contact">
+    <!-- <section class="contact">
         <h1 style="border-bottom: 1px solid #21262d; color: #c9d1d9;">🧑‍💻 Contact me</h1>
         <a href="https://logicallaw.tistory.com">
             <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white">
@@ -61,5 +61,5 @@
         <a href="mailto:logicallawbio@gmail.com">
             <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white">
         </a>
-    </section>
+    </section> -->
 </div>
