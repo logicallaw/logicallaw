@@ -7,7 +7,7 @@
     <section class="introduce">
         <h1 style="border-bottom: 1px solid #21262d; color: #c9d1d9;">Let's try something first and experience it a lot.</h1>
         <p style="font-weight: 700; font-size: 15px; text-align: left; color: #c9d1d9;">
-            👋🏻 Hi, I’m junho Kim, a passionate <strong>Product Engineer</strong> eager to explore new challenges and experiences.
+            👋🏻 Hi, I’m junho Kim, a passionate <strong>Software Engineer</strong> eager to explore new challenges and experiences.
         </p>
     </section>
     <!-- Tech Stacks Section -->
